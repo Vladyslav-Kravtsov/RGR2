@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="yes"?>
+<dataSheetClassTest>
+    <data date="">
+        <x>1.0</x>
+        <y>3.0</y>
+    </data>
+    <data date="">
+        <x>4.0</x>
+        <y>1.0</y>
+    </data>
+    <data date="">
+        <x>-1.0</x>
+        <y>-1.0</y>
+    </data>
+</dataSheetClassTest>
